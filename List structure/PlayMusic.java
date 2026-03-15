@@ -1,4 +1,4 @@
-public class playmusic {
+public class PlayMusic {
 
     static class Musica {
         int id;
