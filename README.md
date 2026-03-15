@@ -1,4 +1,4 @@
-# 📚 Estudos de Estruturas de Dados
+# Estudos de Estruturas de Dados
 
 Bem-vindo ao meu repositório de estudos sobre **Estruturas de Dados**
 
