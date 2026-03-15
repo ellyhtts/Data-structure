@@ -1,4 +1,4 @@
-public class playmusic_comentado {
+public class PlayMusicComentado {
 
     // 1. Estrutura do Nó (Música)
     // Em estruturas de dados, chamamos cada elemento de "Nó" (Node).
