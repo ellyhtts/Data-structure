@@ -1,7 +1,7 @@
 import java.util.Stack;
 import java.util.Scanner;
 
-public class desafiodapilha {
+public class DesafioDaPilha {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         
