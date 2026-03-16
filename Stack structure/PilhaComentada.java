@@ -6,7 +6,7 @@ import java.util.Stack;
 // Importamos o 'Scanner', que serve para o programa "ouvir" o que você digita
 import java.util.Scanner;
 
-public class pilhacomentada {
+public class PilhaComentada {
     // O 'main' é o ponto de entrada: é aqui que o computador começa a ler seu código
     public static void main(String[] args) {
         // Criamos um objeto chamado 'leitor' para capturar as entradas do teclado
