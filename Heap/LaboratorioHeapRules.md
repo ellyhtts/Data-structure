@@ -5,11 +5,11 @@ O objetivo deste desafio foi implementar um sistema de gerenciamento de um **Max
 
 ## Lógica da Implementação
 
-### 1. Inserção ($O(\log n)$)
+### 1. Inserção (O(log n))
 - O elemento é adicionado ao final do array.
 - O método `heapifyUp` é chamado para comparar o elemento com seu pai e trocá-los caso a regra do Max-Heap seja violada.
 
-### 2. Remoção Estratégica ($O(\log n)$)
+### 2. Remoção Estratégica (O(log n))
 Para remover qualquer elemento sem destruir a árvore:
 1. **Substituição:** O valor no índice desejado é substituído pelo **último** elemento do array.
 2. **Corte:** O último elemento (agora duplicado) é removido.
