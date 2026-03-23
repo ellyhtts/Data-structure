@@ -14,6 +14,6 @@ Algumas das estruturas que vamos explorar aqui incluem:
 * **Filas (Queues):** FIFO (First In, First Out)
 * **Listas Encadeadas (Linked Lists):** Simples e Duplamente encadeadas
 * **Tabelas Hash (Hash Tables):** Mapeamento de chaves para valores
-
+* **Heap:** Implementer método delete
 ---
 *Repositório criado para fins de acadêmicos e aprimoramento dos meus estudos.*
